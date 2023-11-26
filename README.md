@@ -5,4 +5,7 @@ Only for team AlphaXhackers in Delhi Hackathon.<br>
   <input type="email" id="email" name="email">
 </form>
 
-Password
+<form>
+  <label for="pwd">Type your password:</label>
+  <input type="password" id="pwd" name="pwd">
+</form>
