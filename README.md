@@ -6,5 +6,6 @@ Only for team AlphaXhackers in Delhi Hackathon.<br>
 <br>
   <label for="pwd">Type your password:</label>
   <input type="password" id="pwd" name="pwd"><br>
- <a href="https://https://shivamgithub587.github.io/AlphaXhackers/"><h3>Submit<h3></a>
+  </form>
+ <a href="https://https://shivamgithub587.github.io/AlphaXhackers/"><h3>Submit<h3>
 </form>
